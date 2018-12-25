@@ -13,8 +13,6 @@ documentation = "https://docs.rs/heif-sys"
 
 
 [dependencies]
-bmp = "0.4"
-mozjpeg = "0.8"
 
 [build-dependencies]
 bindgen = "0.45"
